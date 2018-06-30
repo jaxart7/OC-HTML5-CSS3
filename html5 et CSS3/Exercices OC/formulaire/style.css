@@ -1,0 +1,56 @@
+#blocpage
+{
+	border: 1px solid black;
+	width: 75%;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+header
+{
+	border: 1px red solid;
+	padding: 10px 0;
+}
+
+section
+{
+	border: 1px blue dotted;
+	padding: 10px 0;
+}
+
+td, th
+{
+	border: 2px solid maroon;
+}
+
+table
+{
+	border-collapse: collapse;
+	margin: auto;
+}
+
+input
+{
+	margin:0px 0;
+}
+
+form br
+{
+	margin-bottom: 5px;
+}
+
+textarea
+{
+	width: 40%;
+	height :100px ;
+}
+
+:focus
+{
+	background-color: rgb(200,200,200);
+}
+
+.resetenvoi
+{
+	padding-left: 20px;
+}

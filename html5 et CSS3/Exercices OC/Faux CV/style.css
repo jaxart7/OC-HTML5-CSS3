@@ -1,0 +1,90 @@
+@font-face
+{
+	font-family:'newpolice';
+	src: url('policedl.otf');
+}
+
+h1
+{
+	font-family: newpolice, arial, serif;
+	text-align: center;
+}
+
+h2
+{
+	text-shadow: 6px 6px 3px;
+}
+
+.textegras
+{
+	font-weight: bold;
+}
+
+.listblue
+{
+	color: navy;
+}
+
+header
+{
+	padding: 2% 2% 2% 2%;
+	height : 40%;
+}
+
+header p
+{
+	text-align: center;
+}
+
+#fondgauche
+{
+	background-image: url("fonddegueulasse.png");
+	width: 20%;
+	height: 925px;
+	border-radius: 10px;
+}
+
+#contenu
+{
+	margin-left: 3%;
+	width: 80%;
+}
+
+#blocpage
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+#conteneur
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+.competences
+{
+	width: 30%;
+}
+
+.experience
+{
+	width: 30%;
+}
+
+.formation
+{
+	width: 30%;
+}
+
+
+footer
+{
+	text-align: center;
+	margin-top: 15%;
+}
+
+header img
+{
+	float: right;
+}

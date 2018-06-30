@@ -1,0 +1,58 @@
+@media screen and (max-width: 1024px)
+{
+	#fond_gauche
+	{
+		display: none;
+	}
+
+	#texte
+	{
+		display: flex;
+		flex-direction: column;
+	}
+}
+
+#bloc_page
+{
+	width: auto;
+	display: flex;
+	flex-direction: row;
+}
+
+header
+{
+	min-height: 200px;
+	background-image: url('jean_lassalle_mini.jpg');
+	background-repeat: no-repeat;
+	background-position: right;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	padding: 50px 0;
+
+}
+
+#texte
+{
+	display: flex;
+	display: row;
+	justify-content: space-between;
+}
+
+#fond_gauche
+{
+	background-image: url('fond_gauche.png');
+	background-repeat: repeat;
+	min-width: 200px;
+}
+
+section h2, section p
+{
+	margin-left: 10px;
+}
+
+footer p
+{
+	text-align: center;
+}

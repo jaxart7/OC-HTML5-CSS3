@@ -1,0 +1,165 @@
+@media screen and (max-width : 1280px)
+{
+	/*propriétés pour resolution infèrieur à 720p*/
+	p
+	{
+		font-size: 1.2em;
+		color: red;
+	}
+}
+
+#blocpage
+{
+	margin : 15px 15px 15px 15px;
+}
+
+h1
+{
+	font-size: 2em;
+	font-family: verdana, serif;
+	text-align: center;
+	color: purple;
+}
+
+p
+{
+	font-size: 1em;
+	font-family: "times new roman", serif; 
+	text-align: justify;
+	color: black;
+	padding: 10px;
+	margin: 10px;
+	word-wrap: break-word;
+}
+
+audio
+{
+	width: 30%;
+}
+
+img
+{
+	margin: auto;
+}
+
+section img
+{
+	margin : 15px 15px 15px 0;
+}
+
+h2
+{
+	font-size: 1.5em;
+	font-family: verdana, serif;
+	color: purple;
+}
+
+li
+{
+	font-size: 1em;
+	font-family: "times new roman", serif; 
+	color: black;
+}
+
+body
+{
+	background-color: rgb(234,234,213);
+}
+
+.titre_inde
+{
+	color: orange;
+	opacity: 0.7;
+	background-color: rgba(0,0,0,0.8);
+	text-shadow: 6px 6px 2px black;
+}
+
+.texte_italique
+{
+	font-style: italic;
+}
+
+.img_center
+{
+	border: 2px black solid;
+	*/centrer cette image*/
+}
+
+.imgflotgauche
+{
+	float: left;
+}
+
+a
+{
+	color: black;
+	text-decoration: none;
+	font-style: italic;
+	font-family: "comic sans ms", serif;
+}
+
+a:hover
+{
+	color: aqua;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a:active
+{
+	color: red;
+	font-style: bold;
+	text-decoration: underline;
+}
+
+figure
+{
+	text-align: center;
+}
+
+#conteneur
+{
+	display: flex;
+	justify-content: space-around;
+}
+
+.menu:nth-child(1)
+{
+	align-items: flex-start;
+	order: 1;
+	flex: 1;
+}
+
+.profil:nth-child(3)
+{
+	align-items: flex-start;
+	order: 3;
+	flex: 1;
+}
+
+.contenu:nth-child(2)
+{
+	margin: auto;
+	order: 2;
+	flex: 6;
+}
+
+footer p
+{
+	text-align: center;
+}
+
+#conteneur2
+{
+	display: flex;
+}
+
+td, th
+{
+	border: 1px solid black;
+}
+
+table
+{
+	border-collapse: collapse;
+}

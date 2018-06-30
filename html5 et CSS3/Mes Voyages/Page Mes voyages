@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="style.css" />
+		<title>Mes voyages</title>
+	</head>
+
+	<body><!-- Page créee le 3 avril 2018 --> 
+		
+		<div id="blocpage">
+			<header>
+				<h1>Mon voyage : 2017 à 2018</h1>
+			</header>
+
+			<div id="conteneur">
+				<div class="menu">
+					<nav>
+						<ul>
+							<li><a href="page mes voyages">Acceuil</a></li>
+							<li><a href="https://fr.wikipedia.org/wiki/Tha%C3%AFlande" target="_blank" title="Histoire de la Thailande">Thailande</a></li>
+							<li><a href="dossier inde/page 2 inde.html">Inde</a></li>
+							<li>Sri Lanka</li>
+						</ul>
+					</nav>
+				</div>
+			
+				<div class="contenu">
+					<audio src="elementterre.mp3" controls width="50">Veuillez mettre à jour votre navigateur !</audio>
+					<section>						
+						<p><img src="img/meditationlac.jpg" alt="lac" class="imgflotgauche" />Je suis parti de France en Octobre 2017 pour l'Asie. Une éscale en Russie à Moscou, le trajet dura plus de 10 heures.</BR>
+						<span class="texte_italique">"Un voyage initiatique est un voyage dans lequel une personne se trouve confrontée à des épreuves, aux nouvelles expériences qui lui permettent de passer à l'âge adulte. Ce thème a été utilisé de façon récurrente, notamment dans la littérature, la peinture et le cinéma."</span></br>
+						Haec igitur lex in amicitia sanciatur, ut neque rogemus res turpes nec faciamus rogati. Turpis enim excusatio est et minime accipienda cum in ceteris peccatis, tum si quis contra rem publicam se amici causa fecisse fateatur. Etenim eo loco, Fanni et Scaevola, locati sumus ut nos longe prospicere oporteat futuros casus rei publicae. Deflexit iam aliquantum de spatio curriculoque consuetudo maiorum.</br>
+						Quam ob rem circumspecta cautela observatum est deinceps et cum edita montium petere coeperint grassatores, loci iniquitati milites cedunt. ubi autem in planitie potuerint reperiri, quod contingit adsidue, nec exsertare lacertos nec crispare permissi tela, quae vehunt bina vel terna, pecudum ritu inertium trucidantur.</br>
+						Hae duae provinciae bello quondam piratico catervis mixtae praedonum a Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano disparantur.<br />
+						Je suis parti de France en Octobre 2017 pour l'Asie. Une éscale en Russie à Moscou, le trajet dura plus de 10 heures.<BR />
+						<span class="texte_italique">"Un voyage initiatique est un voyage dans lequel une personne se trouve confrontée à des épreuves, aux nouvelles expériences qui lui permettent de passer à l'âge adulte. Ce thème a été utilisé de façon récurrente, notamment dans la littérature, la peinture et le cinéma."</span><br />
+						Haec igitur lex in amicitia sanciatur, ut neque rogemus res turpes nec faciamus rogati. Turpis enim excusatio est et minime accipienda cum in ceteris peccatis, tum si quis contra rem publicam se amici causa fecisse fateatur. Etenim eo loco, Fanni et Scaevola, locati sumus ut nos longe prospicere oporteat futuros casus rei publicae. Deflexit iam aliquantum de spatio curriculoque consuetudo maiorum.<br />
+						Quam ob rem circumspecta cautela observatum est deinceps et cum edita montium petere coeperint grassatores, loci iniquitati milites cedunt. ubi autem in planitie potuerint reperiri, quod contingit adsidue, nec exsertare lacertos nec crispare permissi tela, quae vehunt bina vel terna, pecudum ritu inertium trucidantur.<br />
+						Hae duae provinciae bello quondam piratico catervis mixtae praedonum a Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano disparantur.</p>
+					</section>
+				</div>
+
+				<div class="profil">
+					<aside>
+						<h2>Mon profil</h2>
+						<ul>
+							<li>nom : xx</li>
+							<li>age : xx</li>
+							<li>sexe : xx</li>
+							<li>lieu de naissance : xx</li>
+						</ul>
+					</aside>
+				</div>				
+			</div>
+
+			<footer>				
+				<p>Copyright Zozor - Tous droits réservés<br />
+					<a href="mailto:jo0792@hotmail.fr" title="jo0792@hotmail.fr">Me contacter par email</a></p>
+			</footer>
+		</div>
+	</body>
+
+</html>

@@ -1,0 +1,18 @@
+html {
+    border: 1px solid orange;
+}
+
+body {
+    border: 1px dotted black;
+}
+
+html, body {
+ margin:0;
+ padding:0;
+ }
+
+header {
+    background-color: yellow;
+    height: 150px;
+    padding: 1px 0;
+}
